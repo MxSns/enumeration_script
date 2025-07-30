@@ -12,7 +12,7 @@
 
 ## install
 
-git clone
+git clone https://github.com/MxSns/enumeration_script.git
 
 chmod +x enumeration_script.sh
 
